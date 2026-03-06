@@ -47,6 +47,33 @@ I enjoy owning features **end-to-end**, collaborating closely with product and d
 
 ---
 
+### AI & Tooling
+
+MCP (Model Context Protocol) • AI tool integrations • developer tooling
+
+---
+
+## Selected projects
+
+### Montevideo Transit MCP Server
+
+MCP server exposing Montevideo’s public transportation system as tools for AI agents.
+
+Allows LLM assistants to query bus routes, stops, and schedules programmatically.
+
+https://github.com/chaba11/mcp-stm-montevideo
+
+---
+
+## Open source
+
+I occasionally contribute to open-source projects and developer tooling.
+
+- Contributions to **Prisma ORM**, one of the most widely used TypeScript ORMs.
+- Small utilities and experiments around backend tooling and APIs.
+
+---
+
 ## 🧩 What I enjoy working on
 
 - Full-stack features: **API → UI → deployment**
